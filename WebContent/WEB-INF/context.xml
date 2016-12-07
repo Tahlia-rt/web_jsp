@@ -1,0 +1,12 @@
+<Context>
+  <Resource name="jdbc/MySql"
+  auth="Container"
+  driverClassName="com.mysql.jdbc.Driver"
+  type="javax.sql.DataSource"
+  url="jdbc:mysql://lunchchart.com:3306/HYEJIN"
+  username="hyejin"
+  password="oracle"
+  maxActive="500"
+  maxIdle="100" />
+
+</Context>

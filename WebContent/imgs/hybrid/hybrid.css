@@ -1,0 +1,48 @@
+
+#hybrid.wrap{
+  position: relative; margin: 0 auto;
+  width: 100%; height: 100%;
+  background-color: black;
+}
+
+
+#hybrid .readee{
+  position: relative; margin: 0 auto; top: 150px;
+  color: 
+}
+
+
+
+#hybrid .react{
+  position: relative; margin: 0 auto; top: 200px;
+  width: 600px; height: auto;
+
+
+}
+
+#hybrid .react img{
+    position: relative; margin: 0 auto;
+  width: 600px; height: auto;
+
+}
+
+#hybrid .os {
+  position: relative; margin: 0 auto; top: 220px;
+  width: 100%; height: 300px;
+}
+#hybrid .os ul{
+  position: relative; margin: 0 auto;
+  width: 600px; height: 100%;
+
+}
+#hybrid .os li{
+  position: relative; margin: 0 auto;
+  display: inline-block; float: left;
+  width: 300px; height: 100%; text-align: center;
+
+}
+#hybrid .os img{
+   position: relative; margin: 0 auto;
+  width: 250px; height: auto;
+
+}

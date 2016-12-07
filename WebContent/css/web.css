@@ -1,0 +1,33 @@
+#web.wrap {
+  position: relative; margin: 0 auto;
+  width: 100%; height: 1200px;
+  background-color: black;
+}
+
+#web .first{
+  position: relative; margin: 0 auto;  top: 40px;
+  width: 100%; height: 150px;
+  background-color: black;
+
+}
+#web .first>div:nth-last-child(1){
+  position: relative; margin: 0 auto;
+  width: 70%; height: 100px;
+   font-family: 'Dosis', sans-serif; font-size: 20px;
+  background-color: #202020; color: #9FFBF4;
+  border: 1px solid #9FFBF4; box-shadow: 0px 12px 8px #183C3E;
+  text-align: center;
+}
+
+#web>.first p {
+position: relative; margin: 0 auto; top:20px;
+width: 86%; height: 80px; box-sizing: border-box;
+
+}
+
+#web>.board {
+  position: relative; top: 70px;
+  width: 100%; height: 500px;
+  background-color: black; color: white;font-family: 'Dosis', sans-serif;
+
+}

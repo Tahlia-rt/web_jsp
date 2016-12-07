@@ -1,0 +1,54 @@
+
+#hybrid.wrap{
+  position: relative; margin: 0 auto;
+  width: 100%; height: 100%;
+  background-color: black;
+}
+
+
+#hybrid .readee{
+  position: relative; margin: 0 auto; top: 50px;
+  color: #9FFBF4;
+  width: 500px; height: 50px;
+  font-family: 'Dosis', sans-serif; font-size: 20px;
+  background-color: #202020; color: #9FFBF4;
+  border: 1px solid #9FFBF4; box-shadow: 0px 12px 8px #183C3E;
+  text-align: center; line-height: 50px;
+}
+
+
+
+#hybrid .react{
+  position: relative; margin: 0 auto; top: 100px;
+  width: 600px; height: auto;
+
+
+}
+
+#hybrid .react img{
+    position: relative; margin: 0 auto;
+  width: 600px; height: auto;
+
+}
+
+#hybrid .os {
+  position: relative; margin: 0 auto; top: 120px;
+  width: 100%; height: 300px;
+  background-color: black;
+}
+#hybrid .os ul{
+  position: relative; margin: 0 auto;
+  width: 600px; height: auto;
+
+}
+#hybrid .os li{
+  position: relative; margin: 0 auto;
+  display: inline-block; float: left;
+  width: 300px; height: auto; text-align: center;
+
+}
+#hybrid .os img{
+   position: relative; margin: 0 auto;
+  width: 250px; height: auto;
+
+}
