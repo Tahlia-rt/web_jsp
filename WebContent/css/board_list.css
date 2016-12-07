@@ -7,3 +7,13 @@ text-align: center; line-height: 100px;
 
 
 }
+
+
+a {
+   text-decoration: none;
+   color: #9FFBF4;
+}
+
+a:hover{
+	color: beige;
+}

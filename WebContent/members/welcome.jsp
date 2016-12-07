@@ -5,17 +5,19 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
-<link rel="stylesheet" href="css/board_list.css" />
 </head>
 <body>
 
+<h3>환영합니다! </h3>
 
-<br><br><br>
-<div class="readee">
+<a href=pr_front.jsp>메인으로 이동합니다 </a> 
 
-<h2><a href="members/pr_front.jsp">회원가입 예제 보러가기 클릭</a></h2>
 
-				</div>
-		
+
+<%= request.getLocalPort() %><br>
+<%= request.getLocale() %><br>
+<%= request.getScheme() %><br>
+
+
 </body>
 </html>
